@@ -1,0 +1,8 @@
+Given a number, 8 convert to ['zero', 'one', 'two' .. 'seven']
+Given a string, output should be list of lenth of each word  Ex Hello world output [5,5]
+Given a string, output should be all prefixes 
+Ex Hello world this is my first program
+Hello
+Hello world
+Hello world this
+...
