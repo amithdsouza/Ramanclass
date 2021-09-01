@@ -7,7 +7,7 @@ import datetime
 import glob
 import json
 
-a = """
+a = "Hello World"
 Main function
 """
 def main():
